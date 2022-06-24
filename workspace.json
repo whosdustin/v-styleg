@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "projects": {
+    "shared-ui-core": "libs/shared/ui-core",
+    "ui-docs": "apps/ui-docs"
+  },
+  "workspaceLayout": {
+    "appsDir": "apps/**/*",
+    "libsDir": "libs/**/*"
+  }
+}
